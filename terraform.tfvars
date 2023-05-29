@@ -1,0 +1,2 @@
+name     = "DevTest"
+location = "eastus"
